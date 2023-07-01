@@ -24,3 +24,9 @@ function dataReverse(data) {
   return arr.reverse().flat()
 }
 ```
+## Education
+* **Master Ryazan State Radio Engineering University**
+* **The Rolling Scopes School** (in progpress)
+## Languages
+* **Russian** - native
+* **English** - A1/A2
